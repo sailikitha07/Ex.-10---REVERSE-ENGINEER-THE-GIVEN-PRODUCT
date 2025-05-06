@@ -11,6 +11,7 @@ To reverse engineering the product and prototyping the same in 3D printer.
 ●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
+```
  Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
  Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
  Step 3.:- Save the file and export as .stl
@@ -29,7 +30,7 @@ To reverse engineering the product and prototyping the same in 3D printer.
      ●	Wait until the nozzle & bed plate comes into the required temperature.
      ●	Close the doors of the 3d printer.
      ●	Open the file from the USB storage and select the Print option.
-
+```
 ### Output:
 ![Screenshot 2025-05-06 114340](https://github.com/user-attachments/assets/32583d5f-0ff8-4555-9c93-220e2745d91e)
 
