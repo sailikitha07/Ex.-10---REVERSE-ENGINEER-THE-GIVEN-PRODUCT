@@ -31,6 +31,9 @@ To reverse engineering the product and prototyping the same in 3D printer.
      ●	Close the doors of the 3d printer.
      ●	Open the file from the USB storage and select the Print option.
 ```
+### Input :
+![image](https://github.com/user-attachments/assets/4f20a64d-a8af-41ab-9bce-470dcd3388f3)
+
 ### Output:
 ![Screenshot 2025-05-20 104001](https://github.com/user-attachments/assets/a39fab97-7c67-46e7-aef2-9f13239750aa)
 
